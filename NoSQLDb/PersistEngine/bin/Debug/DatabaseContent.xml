@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Convert database content to XML file-->
+<NoSQLdb>
+  <keytype>System.String</keytype>
+  <payloadtype>System.Collections.Generic.List`1[System.String]</payloadtype>
+  <element>
+    <key>key15</key>
+    <name>elemLos1</name>
+    <descr>element with ListOfString payload</descr>
+    <timestamp>2015/10/2 11:00:00</timestamp>
+  </element>
+  <element>
+    <key>key16</key>
+    <name>elemLos2</name>
+    <descr>element with ListOfString payload</descr>
+    <timestamp>2015/10/2 10:00:00</timestamp>
+  </element>
+</NoSQLdb>
